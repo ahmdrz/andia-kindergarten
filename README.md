@@ -8,3 +8,6 @@
 
 ##### Sample : 
 
+![input](https://github.com/ahmdrz/andia-kindergarten/blob/master/resources/input.jpg "Input Image")
+
+![output](https://github.com/ahmdrz/andia-kindergarten/blob/master/resources/output.jpg "Output Image")
