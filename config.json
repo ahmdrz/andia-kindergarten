@@ -1,0 +1,11 @@
+{
+    "admin": 2222228,
+    "channel": "a###e#t",
+    "token": "###0ytAGVvlXns",
+    "fixed_footer": "",
+    "watermark": {
+        "watermark": "images/watermark.jpg",
+        "logo": "images/logo.jpg",
+        "height": 100
+    }
+}
